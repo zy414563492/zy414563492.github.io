@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://example.com/2020/09/26/%E6%97%A5%E6%9C%AC%E4%BA%92%E8%81%94%E7%BD%91%E5%B0%8F%E5%85%AC%E5%8F%B8%E5%85%BC%E8%81%8C%E8%AE%B0/</loc>
+    
+    <lastmod>2020-12-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/09/26/%E6%97%A5%E6%9C%AC%E5%B0%B1%E6%B4%BB%E7%9A%84%E6%84%9F%E6%83%B3/</loc>
+    
+    <lastmod>2020-11-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/08/26/%E4%BC%8A%E8%B1%86%E6%97%85%E8%A1%8C%E8%AE%B0/</loc>
+    
+    <lastmod>2020-09-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/09/26/%E6%97%A5%E7%AB%8BGroup%E5%AE%9E%E4%B9%A0%E8%AE%B0/</loc>
+    
+    <lastmod>2020-09-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/about/index.html</loc>
+    
+    <lastmod>2020-09-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/index.html</loc>
+    
+    <lastmod>2020-09-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/index.html</loc>
+    
+    <lastmod>2020-09-26</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>http://example.com/</loc>
+    <lastmod>2020-12-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>http://example.com/tags/japan/</loc>
+    <lastmod>2020-12-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/part-time-job/</loc>
+    <lastmod>2020-12-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/work-in-japan/</loc>
+    <lastmod>2020-12-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/job-hunting/</loc>
+    <lastmod>2020-12-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>http://example.com/categories/travel/</loc>
+    <lastmod>2020-12-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/summary/</loc>
+    <lastmod>2020-12-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>
